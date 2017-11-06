@@ -105,3 +105,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+/VGGnet_fast_rcnn_iter_50000.ckpt.data-00000-of-00001

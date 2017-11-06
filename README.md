@@ -30,6 +30,7 @@
 
 ## 文字框取
 ### CTPN
+[pretrained model](https://pan.baidu.com/s/1kUNTl1l)
 通过生成数据然后放入CTPN训练，得到关于中文的字符框取的模型。
 >**优势**
 速度快，精准度高。
